@@ -1,5 +1,5 @@
 # Hotelstornierungen (Projekt) - Prüfungsleistung
-Eine Prüfungsleistung in Form eines Jupyter Notebooks zur Vorhersage von Hotelstornierungen mittels multivariater Regression und einem Neuronalen Netzwerk. Ebenfalls bereitsgestellt sind ein Datensatz (CSV) sowie ein Frage- und Antwortbogen (ODT) für die Übermittlung der Prüsungsleistung an den Dozenten.
+Eine Prüfungsleistung in Form eines Jupyter Notebooks zur Vorhersage von Hotelstornierungen mittels multivariater Regression und einem Neuronalen Netzwerk. Ebenfalls bereitsgestellt sind ein Datensatz (CSV) sowie ein Frage- und Antwortbogen (ODT) für die Übermittlung der Prüfungsleistung.
 
 # Autoren
 Prof. Dr. Dennis Klinkhammer
